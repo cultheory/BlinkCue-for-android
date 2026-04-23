@@ -1,5 +1,11 @@
 # BlinkCue
 
+## 📥 Download
+
+[⬇ Download APK](https://github.com/cultheory/BlinkCue-for-android/releases)
+
+---
+
 BlinkCue is an Android app designed to reduce eye strain and dryness by encouraging natural blinking.  
 If no blink is detected for a certain period, the screen is covered with a black overlay to prompt a break.
 
