@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BlinkCue</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timeout_hint">1 - 60</string>
+    <string name="default_timeout_seconds">4</string>
+    <string name="timeout_label">No blink timeout</string>
+    <string name="timeout_unit">sec</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="camera_permission_required">Camera permission is required.</string>
+    <string name="notification_permission_required">Notification permission is required.</string>
+    <string name="overlay_permission_required">Overlay permission is required. Enable it and press Start again.</string>
+    <string name="timeout_range_error">Enter a timeout between 1 and 60 seconds.</string>
+    <string name="service_running_title">BlinkCue is running</string>
+    <string name="service_running_text">Monitoring blink timeout in the background.</string>
+    <string name="notification_stop">Stop</string>
+    <string name="overlay_text">Blink!</string>
+</resources>
