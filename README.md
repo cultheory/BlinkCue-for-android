@@ -87,7 +87,6 @@ Android 14 / 15 impose strict limitations on background camera usage.
 
 ## 📦 Build
 
-```bash
 ./gradlew assembleRelease
 
 ---
