@@ -89,3 +89,9 @@ Android 14 / 15 impose strict limitations on background camera usage.
 
 ```bash
 ./gradlew assembleRelease
+
+---
+
+📌 Note
+This app is an experimental project for eye care and productivity.
+Behavior may vary depending on device and OS restrictions.
